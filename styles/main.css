@@ -104,19 +104,19 @@ p {
 
 .image-container {
 	background-image: url(../images/coworking.jpg);
-	background-size: 100%;
 	min-width: 400px;
 	min-height: 200px;
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
+	padding: 30px;
+	/*background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;*/
 }
 
-/*.cowork {
+.cowork {
 	background-size: cover;
-	background-position: center;
+	background-position: center center;
 	background-repeat: no-repeat;
-}*/
+}
 
 .box-right {
 	padding: 30px;
@@ -166,15 +166,19 @@ p {
 
 .col-one {
 	border-right: 1px solid #ececec;
+	width: 33%;
 }
 
 .col-two {
 	border-right: 1px solid #ececec;
+	width: 33%;
 }
 
 .col-three {
-/*	padding-right: 5px;*/
+	padding-right: 5px;
+	width: 33%;
 }
+
 .btn-two {
 	background-color: #ececec;
 	padding: 10px;
