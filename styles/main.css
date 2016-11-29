@@ -107,6 +107,8 @@ p {
 	background-size: 100%;
 	min-width: 400px;
 	min-height: 200px;
+	background-size: cover;
+	background-position: center;
 }
 
 .box-right {
