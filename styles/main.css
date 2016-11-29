@@ -118,7 +118,9 @@ p {
 	width: 30%;
 	margin-left: 60%;
 	margin-right: 10%;
+	opacity: 0.8;
 }
+
 
 .btn-one {
 /*	background-color: #fff;
