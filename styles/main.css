@@ -14,9 +14,17 @@ h2 {
 
 h3 {
 	font-family: source sans pro;
+	font-size: 22px;
+	color: #000000;
+	font-weight: 600;
+}
+
+h4 {
+	font-family: merriweather;
 	font-size: 20px;
 	color: #000000;
 	font-weight: 600;
+
 }
 
 h5 {
@@ -34,6 +42,12 @@ s {
 b {
 	border-bottom: 3px solid yellow;
 	font-weight: 200;	
+}
+
+p {
+	font-family: source sans pro;
+	font-size: 20px;
+	line-height: 120%;
 }
 
 .main-bg {
