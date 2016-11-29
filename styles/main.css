@@ -109,7 +109,14 @@ p {
 	min-height: 200px;
 	background-size: cover;
 	background-position: center;
+	background-repeat: no-repeat;
 }
+
+/*.cowork {
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}*/
 
 .box-right {
 	padding: 30px;
